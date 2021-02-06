@@ -1,2 +1,0 @@
-# chessdojo
-Analyse my games
